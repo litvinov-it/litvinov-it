@@ -5,7 +5,7 @@
 
  - 📫 How to reach me:
 	 - [Telegram @litvinov_it](https://t.me/litvinov_it)
-	 - [danil.litvinov.it@gmail.com](mailto:555.555.555.anastasie@gmail.com)
+	 - [danil.litvinov.it@gmail.com](mailto:danil.litvinov.it@gmail.com)
 
 
 
